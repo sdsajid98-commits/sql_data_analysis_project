@@ -35,9 +35,10 @@ MIT License — free to use, modify, and share with attribution.
 
 ---
 
-## About Me
-Hi, I’m Siddiqa Ali, a Financial Data Analyst interested in data engineering, analytics, and building end-to-end data solutions.
+## 🌟 About Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/siddiqa-sajid-0179bb271/
+Hi, I’m **Siddiqa Ali**, a Financial Data Analyst interested in data engineering, analytics, and building end-to-end data solutions.
+
+🔗 LinkedIn: https://www.linkedin.com/in/siddiqa-sajid-0179bb271/  
 🔗 GitHub: https://github.com/sdsajid98-commits
----
+
