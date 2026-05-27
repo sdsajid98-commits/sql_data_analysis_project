@@ -19,7 +19,8 @@ exploration, segmentation, time trends, cumulative metrics, and performance anal
 Each script is designed to be reusable, readable, and analysis-driven.
 
 # Power BI Dashboard
-https://github.com/sdsajid98-commits/sql_data_analysis_project/blob/main/dashboard/dashboard1-1.jpg
+![Product Dashboard]([dashboards/product_dashboard.png](https://github.com/sdsajid98-commits/sql_data_analysis_project/blob/main/dashboard/dashboard1-1.jpg
+)
 ---
 
 ## 🧠 Purpose
