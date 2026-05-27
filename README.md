@@ -35,20 +35,9 @@ MIT License — free to use, modify, and share with attribution.
 
 ---
 
-## 👤 About
+## About Me
+Hi, I’m Siddiqa Ali, a Financial Data Analyst interested in data engineering, analytics, and building end-to-end data solutions.
 
-Built by **Data With Baraa**  
-IT professional | Data educator | YouTuber
-
-Sharing simple, practical ways to work with data.
-
----
-
-## 🔗 Connect
-
-- YouTube: https://bit.ly/3GiCVUE  
-- LinkedIn: https://linkedin.com/in/baraa-khatib-salkini  
-- Website: https://www.datawithbaraa.com  
-- Newsletter: https://bit.ly/BaraaNewsletter  
-
+🔗 LinkedIn: https://www.linkedin.com/in/siddiqa-sajid-0179bb271/
+🔗 GitHub: https://github.com/sdsajid98-commits
 ---
