@@ -1,24 +1,28 @@
 /*
 ===============================================================================
-Date Range Exploration 
+Date Range Exploration
 ===============================================================================
 Purpose:
-    - To determine the temporal boundaries of key data points.
-    - To understand the range of historical data.
-
-SQL Functions Used:
-    - MIN(), MAX(), DATEDIFF()
+    Explore the time range of sales data and customer demographics.
 ===============================================================================
 */
 
--- Determine the first and last order date and the total duration in months
-SELECT 
+
+-- =============================================================================
+-- Sales Date Range
+-- =============================================================================
+
+SELECT
     MIN(order_date) AS first_order_date,
     MAX(order_date) AS last_order_date,
     DATEDIFF(MONTH, MIN(order_date), MAX(order_date)) AS order_range_months
 FROM gold.fact_sales;
 
--- Find the youngest and oldest customer based on birthdate
+
+-- =============================================================================
+-- Customer Age Range
+-- =============================================================================
+
 SELECT
     MIN(birthdate) AS oldest_birthdate,
     DATEDIFF(YEAR, MIN(birthdate), GETDATE()) AS oldest_age,
